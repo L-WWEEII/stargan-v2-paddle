@@ -1,4 +1,4 @@
 ##
-鍩轰簬鐧惧害PaddlePaddle骞冲彴
+基于百度PaddlePaddle平台
 ##
-澶嶇幇鑷狢VPR璁烘枃StarGAN-v2
+复现自CVPR论文StarGAN-v2
